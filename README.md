@@ -30,3 +30,4 @@ Arcade-Machine building project
 --------------------------------------------------------------------------------------------------------------------
 # Updates :
 ### we will still update the project by putting coin acceptor and make the arcade portable so make sure to wait for the update.
+for any informations contact !(dodohabibty84@gmail.com) 
