@@ -8,7 +8,7 @@ Arcade-Machine building project
 --------------------------------------------------------------------------------------------------------------------
 
 # Our steps of the project:
-1.we searched in the Arcade body for CNC cut and thanks for grabcade we find 3D design here !(https://grabcad.com/library/bartop-arcade-cabinet-wip-1) and you will find the f3d file in the repository however we put our modification for our components. 
+1. we searched in the Arcade body for CNC cut and thanks for grabcade we find 3D design here !(https://grabcad.com/library/bartop-arcade-cabinet-wip-1) and you will find the f3d file in the repository however we put our modification for our components. 
 2. we searched for the components for our project and that is the list:
     - Raspberry Pi 4 2GB RAM.
     - LCD 19 INCH.
