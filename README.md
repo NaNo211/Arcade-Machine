@@ -1,6 +1,9 @@
 # Arcade-Machine 
 We are demonstrating how to build a full bartop arcade by using raspberry pi 4 and some encoders. Our main purpose in this project is to entertain and to bring back the legacy that is left behind during the golden age of gaming for the 90s kids.
 
+Detailed Report: [here](https://github.com/NaNo211/Arcade-Machine/blob/a437bf5808926beff83330a13dacb5faf803c477/Arcade%20Machine.pdf)
+Presentation: [here](https://github.com/NaNo211/Arcade-Machine/blob/a437bf5808926beff83330a13dacb5faf803c477/Arcade%20Machine.pptx)
+
 
 # Final Output: 
 ![this is an image](https://github.com/NaNo211/Arcade-Machine/blob/main/Arcade-machine.jpeg)
