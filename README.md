@@ -1,6 +1,5 @@
 # Arcade-Machine 
-We are demonstrating how to build full bartop arcade by using raspberry pi 4 
-Our main purpose in this project is to entertain and to bring back the legacy that is left behind during the golden age of gaming for the 90s kids.
+We are demonstrating how to build a full bartop arcade by using raspberry pi 4 and some encoders. Our main purpose in this project is to entertain and to bring back the legacy that is left behind during the golden age of gaming for the 90s kids.
 
 
 # Final Output: 
